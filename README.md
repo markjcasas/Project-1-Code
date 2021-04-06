@@ -1,5 +1,5 @@
 # Project-1-Code
 
 Team Members:
-Name:               Email:
-Mark Icasas         mark.icasas@csu.fullerton.edu
+Name: Mark Icasas                
+Email: mark.icasas@csu.fullerton.edu
