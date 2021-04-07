@@ -1,4 +1,4 @@
-# project-1-balance-telegram
+# project-1-code
 Project 1
 
 Group members:
