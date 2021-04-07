@@ -1,4 +1,6 @@
-# Project-1-Code
+# project-1-balance-telegram
+Project 1
 
-Name: Mark Icasas                
-Email: mark.icasas@csu.fullerton.edu
+Group members:
+
+Mark Icasas mark.icasas@csu.fullerton.edu
